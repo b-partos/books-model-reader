@@ -1,0 +1,5 @@
+# Intellij files
+/.idea/
+
+# Build artifacts
+/target/
